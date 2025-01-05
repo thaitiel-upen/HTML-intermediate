@@ -58,7 +58,7 @@ This repo consist of 5 directories per the following structure:<br />
 |  **Percentage**       |**Directory**       | **Criteria**                                   | **YES**       | **NO**        | **Observations** | 
 |------------------------------------------|------------------------------------------|-----------------------------------------------|-------------------------------|--------------------------|--------------------------|
 |  **10%**  |**Anchor Elements**  | Matches the png image and functional requirements?   |    |          |       | 
-| **30%**  |**File Pathst** |  Matches the png image and functional requirements?             |        |   |    | 
+| **30%**  |**File Paths** |  Matches the png image and functional requirements?             |        |   |    | 
 | **10%**  |**List Elements**      |  Matches the png image and functional requirements?       |        | |  | 
 | **25%**  |**Multi Pages** | Matches the png image and functional requirements?         |    |    | | 
 | **25%**  |**Nesting** | Matches the png image and functional requirements?         |    |    | | 
