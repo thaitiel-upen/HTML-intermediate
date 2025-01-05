@@ -37,16 +37,17 @@ This repo consist of 5 directories per the following structure:<br />
 
 
 ```
+
 ## Instructions:
 1. Clone the repository on your local machine.
-2. In the folder  <code>List Elements<code>, edit the <code>index.html</code> file, make the necessary modifications to match the <code>goal.png</code>.
-3. In the folder  <code>Nesting and Indentation<code>, edit the <code>index.html</code> file, make the necessary modifications to match the <code>goal.png</code>.
-4. In the folder  <code>Anchor Elements<code>, edit the <code>index.html</code> file, make the necessary modifications to match the <code>goal.png</code>
+2. In the folder  <code>List Elements</code>, edit the <code>index.html</code> file, make the necessary modifications to match the <code> goal.png </code> t.
+3. In the folder  <code>Nesting and Indentation</code>, edit the <code>index.html</code> file, make the necessary modifications to match the <code>goal.png</code>.
+4. In the folder  <code>Anchor Elements</code>, edit the <code>index.html</code> file, make the necessary modifications to match the <code>goal.png</code>
 5. Edit the <code>index.html</code> file,  make the necessary modifications to match the <code>goal.png</code> on each folder, in this exercise you must add the 5 webpages you want with the text you want.
-6. In the folder  <code>File Paths<code>, edit the <code>index.html</code> file, make the necessary modifications to match the <code>goal.png</code>, **you MUST use relative paths, you CANNOT move files from direcotires**.
-7. In the folder  <code>Multi Pages<code>, edit the <code>index.html</code> file, make the necessary modifications to match the <code>goal.png</code>:
+6. In the folder  <code>File Paths</code>, edit the <code>index.html</code> file, make the necessary modifications to match the <code>goal.png</code>, **Do Not move files from directories**.
+7. In the folder  <code>Multi Pages</code>, edit the <code>index.html</code> file, make the necessary modifications to match the <code>goal.png</code>:
     *  Contact Me Hyperlink must open the <code>contact.html</code> webpage.
-    *  Cat image must open the <code>contact.html</code> webpage.
+    *  Cat image must open the <code>about.html</code> webpage.
 9. Commit your changes and push them to the github repository.
 10. Create a pull request for review.
 11. Once all students complete the Pull Request or the time assigned from the teacher is completed, an issue in your github repository will be created.
